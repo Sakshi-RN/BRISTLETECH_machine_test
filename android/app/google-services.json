@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269732174883",
+    "project_id": "signinproject-f4240",
+    "storage_bucket": "signinproject-f4240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269732174883:android:cad030b2f64cf95e29e596",
+        "android_client_info": {
+          "package_name": "com.googlesigninproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtN5D609qw_K342fpDjIz5jsqH55Fv5M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
